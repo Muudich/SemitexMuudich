@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'FuturaFuturisC';
+    src: url('FuturaFuturisC.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FuturaDemiC';
+    src: url('FuturaDemiC.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FuturaLightC';
+    src: url('FuturaLightC.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
